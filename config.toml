@@ -28,7 +28,7 @@ email = "email@danieldresch.com"
 google_analitycs_id = "Your ID"
 home = "Início"
 logo = "images/logo.png"
-phone = "+55(61)99111.8088"
+phone = ""
 theme_color = "#dd0000"
 [params.contact]
 enable = true
