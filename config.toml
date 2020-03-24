@@ -16,9 +16,9 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "contato"
+name = "contato"
+weight = "5"
 [params]
 address = ""
 author = "Daniel Dresch"
